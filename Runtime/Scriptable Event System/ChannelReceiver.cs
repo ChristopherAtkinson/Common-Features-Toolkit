@@ -1,7 +1,7 @@
 using Sirenix.OdinInspector;
 using System.Linq;
 
-namespace Undefined.CommonFeaturesToolkit
+namespace Undefined.CommonFeaturesToolkit.ScriptableEventSystem
 {
     public sealed class ChannelReceiver : SerializedMonoBehaviour
     {
