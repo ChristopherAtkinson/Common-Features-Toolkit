@@ -72,8 +72,18 @@ public sealed class GameObjectChannel : ChannelReceiver.Channel<UnityEngine.Game
 
 **It is important to not that the these events can be created using most primitive types but can also be defined by using custom classes including several types.**
 
-## License 
+#### Interface and Listening for Events
 
+Selecting type based on the previously defined interfaces through reflection.
+
+![Channel Receiver - Interface Selection](Documentation\Images\ChannelReceiver-InterfaceSelection.png "Channel Receiver - Interface Selection")
+
+Interface expansion once type is defined and adjustable fields for suitable event responses.
+
+![Channel Receiver - Empty Interface](Documentation\Images\ChannelReceiver-EmptyInterface.png "Channel Receiver - Empty Interface")
+
+## License 
+s
 Common-Features-Toolkit is licensed under the [MIT](#) license. 
 
 Copyright &copy; 2021, Christopher Atkinson.
