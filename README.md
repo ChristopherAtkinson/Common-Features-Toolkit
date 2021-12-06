@@ -76,11 +76,11 @@ public sealed class GameObjectChannel : ChannelReceiver.Channel<UnityEngine.Game
 
 Selecting type based on the previously defined interfaces through reflection.
 
-![Channel Receiver - Interface Selection](Documentation\Images\ChannelReceiver-InterfaceSelection.png "Channel Receiver - Interface Selection")
+![Channel Receiver - Interface Selection](/Documentation/Images/ChannelReceiver-InterfaceSelection.png "Channel Receiver - Interface Selection")
 
 Interface expansion once type is defined and adjustable fields for suitable event responses.
 
-![Channel Receiver - Empty Interface](Documentation\Images\ChannelReceiver-EmptyInterface.png "Channel Receiver - Empty Interface")
+![Channel Receiver - Empty Interface](/Documentation/Images/ChannelReceiver-EmptyInterface.png "Channel Receiver - Empty Interface")
 
 ## License 
 s
