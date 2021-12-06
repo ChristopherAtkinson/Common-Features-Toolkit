@@ -1,0 +1,15 @@
+{
+  "name": "com.undefined.common-features-toolkit",
+  "version": "0.1.0",
+  "displayName": "Common Features Toolkit",
+  "description": "Common Features Toolkit is a set of tools design for improving workflow in Unity and adding missing or much needed features commonly available in other engines, and platforms.",
+  "unity": "2018.4",
+  "unityRelease": "36f1",
+  "documentationUrl": "https://github.com/ChristopherAtkinson/Common-Features-Toolkit/README.md",
+  "licensesUrl": "https://github.com/ChristopherAtkinson/Common-Features-Toolkit/LICENSE",
+  "author": {
+    "name": "Christopher Atkinson",
+    "email": "c_atkinson@outlook.com",
+    "url": "https://christopheratkinson.github.io/"
+  }
+}
