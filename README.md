@@ -84,7 +84,7 @@ Interface expansion once type is defined and adjustable fields for suitable even
 
 ## License 
 
-Common-Features-Toolkit is licensed under the [MIT](#LICENSE) license. 
+Common-Features-Toolkit is licensed under the [MIT](#) license. 
 
 Copyright &copy; 2021, Christopher Atkinson.
 
