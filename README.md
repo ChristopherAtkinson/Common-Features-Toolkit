@@ -83,8 +83,8 @@ Interface expansion once type is defined and adjustable fields for suitable even
 ![Channel Receiver - Empty Interface](/Documentation/Images/ChannelReceiver-EmptyInterface.png "Channel Receiver - Empty Interface")
 
 ## License 
-s
-Common-Features-Toolkit is licensed under the [MIT](#) license. 
+
+Common-Features-Toolkit is licensed under the [MIT](#LICENSE) license. 
 
 Copyright &copy; 2021, Christopher Atkinson.
 
